@@ -39,7 +39,7 @@ Operating a mining pool (metapool.tech) for Alephium alephium.org
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
-We already running one (EBT8jTD8o4tKng2NXrrcrzVhJiBnKpT1bJy5CMeArt2w) in order to test (telegram messaging and speedtest) the mixnet and discover use cases that could be use and implemented later in order to offer full anonymity protection for people looking for it
+We already running one (EBT8jTD8o4tKng2NXrrcrzVhJiBnKpT1bJy5CMeArt2w) and exposing a nym-socks5 to Internet via proxy.notrustverify.ch:443 in order to test (telegram messaging and speedtest) the mixnet and discover use cases that could be use and implemented later in order to offer full anonymity protection for people looking for it
 
 We have in mind to educate people on using this kind of applications like nym connect and raise awareness around privacy and the importance of it
 ```
