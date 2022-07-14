@@ -44,5 +44,5 @@ How I understand, gateway serves as destination for mixnet packets and traffic g
 
 USDC or BTC address for payment * 
 ```
-USDC
+0x6c3C53ec296AffEC164Cc9Fa54D6bfcBD0C4F046
 ```
