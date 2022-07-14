@@ -2,15 +2,18 @@ Nym Service Grants application form
 ------------------------------------
 
 Applicant name/pseudonym *
-```nkbblocks
+```
+nkbblocks
 ```
 
 Applicant contact email *
-```anurg@yahoo.com
+```
+anurg@yahoo.com
 ```
 
 Applicant Github username
-```anurg
+```
+anurg
 ```
 
 Are you already a member of Nym's social channels? * 
@@ -29,7 +32,8 @@ If so, please fill in the checkbox of the role(s) that apply to you with an 'x'
 
 Do you maintain nodes in other projects? 
 If so, please briefly list which projects below: 
-```Forta, Testnet in Subspace, Subquery, Masa, QuickSilver, Partisia,Aptos, Sei, Sui
+```
+Forta, Testnet in Subspace, Subquery, Masa, QuickSilver, Partisia,Aptos, Sei, Sui
 ```
 
 Why do you want to run a Gateway and Network Requester? * 
