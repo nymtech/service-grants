@@ -2,7 +2,10 @@ Nym Service Grants application form
 ------------------------------------
 
 Applicant name/pseudonym *
+```
 thebaldcats
+
+```
 
 Applicant contact email *
 ```
