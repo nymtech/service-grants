@@ -3,27 +3,30 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
+Evgeny Garanin
 ```
 
 Applicant contact email *
 ```
+evgeny@nodes.guru
 ```
 
 Applicant Github username
 ```
+evgeny-garanin
 ```
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `include your handle here`
-- [ ] Telegram: `include your handle here`
-- [ ] Keybase: `include your handle here`
+- [x] Discord: `passenger#5420`
+- [x] Telegram: `@evgenygaranin`
+- [x] Keybase: `passenger00`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
-- [ ] Node Operator: Mainnet 
-- [ ] Node Operator: Testnet(s)
-- [ ] Other (please describe below)
+- [x] Node Operator: Mainnet 
+- [x] Node Operator: Testnet(s)
+- [x] Other (please describe below)
 ```
 ```
 
@@ -39,4 +42,5 @@ Please briefly describe what these nodes do, why you wish to maintain these node
 
 USDC or BTC address for payment * 
 ```
+0x1A9318a5f3c4b0513b9c34EAdB2fFC3Fde656508
 ```
