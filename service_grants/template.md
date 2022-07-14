@@ -18,14 +18,14 @@ it-amalker
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [yes] Discord: `v13o#8549`
-- [yes] Telegram: `game_amalker`
-- [yes] Keybase: `amalkero`
+- [x] Discord: `v13o#8549`
+- [x] Telegram: `game_amalker`
+- [x] Keybase: `amalkero`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
-- [yes] Node Operator: Mainnet 
-- [yes] Node Operator: Testnet(s)
+- [x] Node Operator: Mainnet 
+- [x] Node Operator: Testnet(s)
 - [ ] Other (please describe below)
 ```
 ```
