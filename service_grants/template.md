@@ -5,8 +5,7 @@ Applicant name/pseudonym *
 ```Palamar```
 
 Applicant contact email *
-```palamarsat@gmail.com
-```
+```palamarsat@gmail.com```
 
 Applicant Github username
 ```Pa1amar```
