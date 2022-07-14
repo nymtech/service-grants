@@ -3,7 +3,7 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
-```
+Vladimiras Levinas```
 
 Applicant contact email *
 ```
