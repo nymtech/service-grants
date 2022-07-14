@@ -27,8 +27,7 @@ If so, please fill in the checkbox of the role(s) that apply to you with an 'x'
 - [x] Node Operator: Mainnet 
 - [x] Node Operator: Testnet(s)
 - [ ] Other (please describe below)
-```
-```
+
 
 Do you maintain nodes in other projects? 
 If so, please briefly list which projects below: 
