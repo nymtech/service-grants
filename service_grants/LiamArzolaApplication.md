@@ -41,7 +41,7 @@ Why do you want to run a Gateway and Network Requester? *
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
 Gateways (will eventually) process Coconut based bandwidth credentials to allow Nym clients to send and receive traffic across the mixnet. They also act as a mailbox of sorts, storing messages for pseudanymous clients. Network Requesters are service providers that act as proxies to an allowlist of internet addresses.
-I want to maintain these nodes because I'm passionate about fighting surveillance states and strengthening privacy infrastructure. I also want to show my commitment to the community, as I will be applying for research internships at Nym later this year! I operate a fairly popular mixnode already as a volunteer (0% profit margin), and a grant would enable me to dedicate a bit less time to my work and more time to Nym! I would like to support Twitter, but if that is a low priority application then I'd like to support either signal, telegram, or the Tezos blockchain, whichever is highest priority to the project.
+I want to maintain these nodes because I'm passionate about fighting surveillance states and strengthening privacy infrastructure. I also want to show my commitment to the community, as I will be applying for research internships at Nym later this year! I operate a fairly popular mixnode already as a volunteer (0% profit margin), and a grant would enable me to dedicate a bit less time to my work and more time to Nym! I would like to support Signal.
 ```
 
 USDC or BTC address for payment * 
