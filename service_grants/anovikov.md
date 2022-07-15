@@ -15,7 +15,7 @@ Applicant Github username
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `include your handle here`
+- [ ] Discord: `zippy#5794`
 - [ ] Telegram: `include your handle here`
 - [ ] Keybase: `include your handle here`
 
