@@ -48,6 +48,7 @@ Please briefly describe what these nodes do, why you wish to maintain these node
 ```
 I want to participate in the development of project and help in fight for users privacy
 Network Requester is like a proxy node, that send all outbound requests to app and recieve response for user, hidding ip and metadata.
+I would like to support all 4 services but if I should to choose only one - Electrum wallet.
 ```
 
 USDC or BTC address for payment * 
