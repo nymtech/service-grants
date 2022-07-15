@@ -44,7 +44,7 @@ More nodes in the past plus mining operations which have been discontinued
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
-I am already running several mixnodes on NYM mainnet as well as a gateway and playing around with Network Requesters as well. Currently the mixnet is running fine, but we urgently need those entry nodes for end users asap and I want to support you with that!
+I am already running several mixnodes on NYM mainnet as well as a gateway and playing around with Network Requesters as well. I would prefer to run my service for Telegram and NYM wallet - open for other services when needed of course.
 ```
 
 USDC or BTC address for payment * 
