@@ -20,7 +20,7 @@ pwnfoo
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
 - [x] Discord: `pwnfoo#1337`
 - [x] Telegram: `pwnfoo`
-- [x] Keybase: `blockfend` / `pwn_foo`
+- [x] Keybase: `blockfend`
 
 #### Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
