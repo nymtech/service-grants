@@ -3,6 +3,7 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
+Aleksandr
 ```
 
 Applicant contact email *
@@ -15,13 +16,13 @@ Applicant Github username
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `zippy#5794`
-- [ ] Telegram: `include your handle here`
-- [ ] Keybase: `include your handle here`
+- [x] Discord: `zippy#5794`
+- [x] Telegram: `@alannovikov`
+- [ ] Keybase: `zippycrypto`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
-- [ ] Node Operator: Mainnet 
+- [x] Node Operator: Mainnet 
 - [ ] Node Operator: Testnet(s)
 - [ ] Other (please describe below)
 ```
