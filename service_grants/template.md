@@ -8,6 +8,7 @@ ALEX
 
 Applicant contact email *
 ```
+aleksandr.glaznyov@gmail.com
 ```
 
 Applicant Github username
