@@ -46,5 +46,5 @@ Please briefly describe what these nodes do, why you wish to maintain these node
 
 USDC or BTC address for payment * 
 ```
-0xd88B84c462815e96eA647139823D3f60d55bfDd4 (USDC on eth mainnet)
+0xd88B84c462815e96eA647139823D3f60d55bfDd4 (USDC on ETH mainnet)
 ```
