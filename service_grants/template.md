@@ -19,8 +19,8 @@ KonstantinLitvin
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
 - [+] Discord: `kostyali#9325`
-- [+] Telegram: `kostya_li
-- [+] Keybase: `kekuev
+- [+] Telegram: `kostya_li`
+- [+] Keybase: `kekuev`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
