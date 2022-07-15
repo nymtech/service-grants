@@ -20,7 +20,7 @@ Are you already a member of Nym's social channels? *
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
 - [x] Discord: `zippy#5794`
 - [x] Telegram: `@alannovikov`
-- [ ] Keybase: `zippycrypto`
+- [x] Keybase: `zippycrypto`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
