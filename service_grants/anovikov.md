@@ -4,7 +4,7 @@ Nym Service Grants application form
 Applicant name/pseudonym *
 ```
 ```
-test
+
 Applicant contact email *
 ```
 ```
