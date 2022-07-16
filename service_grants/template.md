@@ -3,21 +3,24 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
+jenni
 ```
 
 Applicant contact email *
 ```
+contact@stakewithjenni.com
 ```
 
 Applicant Github username
 ```
+stakewithjenni
 ```
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `include your handle here`
-- [ ] Telegram: `include your handle here`
-- [ ] Keybase: `include your handle here`
+- [ ] Discord: `jenni#0900`
+- [ ] Telegram: `roktkik`
+- [ ] Keybase: `stakewithjenni`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
