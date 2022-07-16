@@ -26,8 +26,9 @@ Are you already a member of the Nym community? *
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
 - [x] Node Operator: Mainnet 
 - [x] Node Operator: Testnet(s)
-- [ ] Other (please describe below)
+- [x] Other (please describe below)
 ```
+Developer
 ```
 
 Do you maintain nodes in other projects? 
