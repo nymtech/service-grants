@@ -39,8 +39,13 @@ Solana MB, Solana Testnet, Ironfish, Archway, Massa
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
+We are working with NYM technology from Finney testnet and now we want to dive dipper.
+We are looking for closer cooperation with NYM as noderunner and app developer.
+Gateway is the interface between users and the mixnet that check app's/user's credentials, send traffic through the mixnet and also receive or store traffic on the other end. Network Requester allows for private network requests to be made outside the mixnet from local Nym client.
+If it possible, we can support all (wallet, Electrum, telegram and keybase) services.
 ```
 
 USDC or BTC address for payment * 
 ```
+0xf1411c492b2389578827ceda91844cd466f468ce
 ```
