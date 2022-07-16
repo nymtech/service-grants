@@ -25,8 +25,8 @@ If so, please fill in the checkbox of the platforms that apply to you, and inclu
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
-- [x] Node Operator: Mainnet 
-- [x] Node Operator: Testnet(s)
+- [x] Node Operator: Mainnet https://mixnet.explorers.guru/mixnode/F25tjY7g3zX6nQ9L4y6CqBfSbMTZhnEGJxGAy5Ww7nAM
+- [x] Node Operator: Testnet(s) https://nodes.guru/nym/mixnodecheck?q=4pQX6wL2CDVowzSa21jwhZsdDAmS8A1zZkvQWEnwSQrt
 - [ ] Other (please describe below)
 ```
 ```
