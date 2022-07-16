@@ -33,7 +33,7 @@ If so, please fill in the checkbox of the role(s) that apply to you with an 'x'
 Do you maintain nodes in other projects? 
 If so, please briefly list which projects below: 
 ```
-Mina,Casper,Cudos,Axelar,Umee,Marlin,Taraxa,Celestia
+Mina,Casper,Cudos,Axelar,Umee,Marlin,Taraxa,Celestia,Agoric
 ```
 
 Why do you want to run a Gateway and Network Requester? * 
