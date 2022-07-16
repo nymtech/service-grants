@@ -44,6 +44,8 @@ Gateways provide a destination for mixnet packets. Most of the internet doesn't 
 Nym clients connect to gateways. Messages are automatically piped to connected clients and deleted from the gateway's disk storage. If a client is offline when a message arrives, it will be stored for later retrieval. When the client connects, all messages will be delivered, and deleted from the gateway's disk.
 
 We have been an avid supporter of  Nym since begining 2.5 years ago because of the nature of the problem they are trying to solve. we would lve to get involved.
+
+we would like to run all 4 services. 
 ```
 
 USDC or BTC address for payment * 
