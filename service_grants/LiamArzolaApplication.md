@@ -3,7 +3,7 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
-Liam Arzola
+Liam Arzola (NymNet)
 ```
 
 Applicant contact email *
