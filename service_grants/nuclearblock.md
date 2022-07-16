@@ -18,9 +18,9 @@ NuclearBlock
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `Igor | NuclearBlock[one]#4514`
-- [ ] Telegram: `@NuclearBlock`
-- [ ] Keybase: `nuclearblock`
+- [x] Discord: `Igor | NuclearBlock[one]#4514`
+- [x] Telegram: `@NuclearBlock`
+- [x] Keybase: `nuclearblock`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
