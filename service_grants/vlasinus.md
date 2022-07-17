@@ -2,15 +2,18 @@ Nym Service Grants application form
 ------------------------------------
 
 Applicant name/pseudonym *
-```vlasinus
+```
+vlasinus
 ```
 
 Applicant contact email *
-```vlasov@yahoo.com
+```
+vlasov@yahoo.com
 ```
 
 Applicant Github username
-```vlasinus
+```
+vlasinus
 ```
 
 Are you already a member of Nym's social channels? * 
@@ -29,14 +32,17 @@ If so, please fill in the checkbox of the role(s) that apply to you with an 'x'
 
 Do you maintain nodes in other projects? 
 If so, please briefly list which projects below: 
-```Massa, Sui, Minima, Subspace
+```
+Massa, Sui, Minima, Subspace
 ```
 
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
-```The Network Requester is the layer between the NYM network client and the service the Network Requester provides. Network Requester send all outbound requests to app and recieve response for user, hidding ip and metadata.I want to support Nym Wallet service and Telegram.
+```
+The Network Requester is the layer between the NYM network client and the service the Network Requester provides. Network Requester send all outbound requests to app and recieve response for user, hidding ip and metadata.I want to support Nym Wallet service and Telegram.
 ```
 
 USDC or BTC address for payment * 
-```0x1a5621b229deecf5f696253cd9b95e21e9595572
+```
+0x1a5621b229deecf5f696253cd9b95e21e9595572
 ```
