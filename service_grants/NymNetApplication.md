@@ -3,7 +3,7 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
-Liam Arzola (NymNet)
+Liam Arzola and Felipe Arce (NymNet)
 ```
 
 Applicant contact email *
@@ -14,6 +14,7 @@ Lma77@cornell.edu
 Applicant Github username
 ```
 liam0215
+astherath
 ```
 
 Are you already a member of Nym's social channels? * 
