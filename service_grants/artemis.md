@@ -33,8 +33,8 @@ penumbra, sui, massa, ironfish, subspace, starknet, masa finance and others
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
-**Gateways** - are the interface between users and the mixnet. They check that an application or user has the credentials to use the mixnet.
-**Network Requesters** - are the hop out that takes the user from the exit gateway to an app — which they are now using in a privacy-enhanced mode!
+Gateways - are the interface between users and the mixnet. They check that an application or user has the credentials to use the mixnet.
+Network Requesters - are the hop out that takes the user from the exit gateway to an app — which they are now using in a privacy-enhanced mode!
 ```
 
 USDC or BTC address for payment * 
