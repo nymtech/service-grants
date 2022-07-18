@@ -45,7 +45,9 @@ Please briefly describe what these nodes do, why you wish to maintain these node
 ```
 It`s the way to help fighting for future where privacy protection exsist while get compensated for used time. I think its win-win opportunity.
 
-To answer simple about nodes: gateways are entry points to the Nym mixnet while Network Requester is an exit point :)
+To answer simple about nodes: gateways are entry points to the Nym mixnet while Network Requester is an exit point from mixnet and entrypoint to the app :)
+
+I would like to support Nym Wallet, but if it possible I can try to handle with all 4 projects!
 ```
 
 USDC or BTC address for payment * 
