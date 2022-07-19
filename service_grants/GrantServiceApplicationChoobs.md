@@ -3,6 +3,7 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
+Rémi Strasser (Choobs Ltd)
 ```
 
 Applicant contact email *
