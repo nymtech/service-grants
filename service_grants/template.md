@@ -47,9 +47,11 @@ Full list available on: https://mellifera.network/
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
-I have been running the mixnode (https://mixnet.explorers.guru/mixnode/7xwUc4k6iWK3yuBNR7CgDVEh6zo2BenKZvbUJPoPzZyb) since the mainnet launch. I have played around with the SOCKS5 client and sent a few mixed messages via telegram : ).  
+I have been running the mixnode (https://mixnet.explorers.guru/mixnode/7xwUc4k6iWK3yuBNR7CgDVEh6zo2BenKZvbUJPoPzZyb) since the mainnet launch. I have played around with the SOCKS5 client and sent a few mixed messages via telegram : ). 
+ 
 For me, it doesn't matter which service to support. But if need to choose, I will choose Telegram because I'm a regular user of the messenger. 
 Would be super cool for me if telegram users will use my infrastructure to increase their privacy on a new level! 
+I have created test network requester: 4vskE1eG5rP7qMt3w96dUwe5QU2yxZZwhytzVr1zEVtu.6981Bsqe2X26VLyapdytbrvp7dNHbZHSk8TJ3hX9hMrL@BNjYZPxzcJwczXHHgBxCAyVJKxN6LPteDRrKapxWmexv 
 ```
 
 USDC or BTC address for payment * 
