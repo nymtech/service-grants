@@ -40,7 +40,9 @@ Humanode, Sei, Meson, Ironfish
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
-I have been running nym testnet since finney. I just believe that privacy is a basic born right. Nym is teh only project that really sealed the gap no one wants to talk and even let people think about. I think myself, if people get a saying about what and how their future will be shaped. Then, nym will be a fundamental layer of the internet of the future
+I have been running nym testnet since finney. I just believe that privacy is a basic born right. Nym is teh only project that really sealed the gap no one wants to talk and even let people think about. I think myself, if people get a saying about what and how their future will be shaped. Then, nym will be a fundamental layer of the internet of the future.
+Gateway nodes which are the first hop into the mixnet. They provide destination for the mixnet packets.
+Network Requesters are the hop out that takes the user from the exit gateway to an app.
 ```
 
 USDC or BTC address for payment * 
