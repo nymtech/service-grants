@@ -8,6 +8,7 @@ Apollo
 
 Applicant contact email *
 ```
+apollo.validator@gmail.com
 ```
 
 Applicant Github username
@@ -16,8 +17,8 @@ Applicant Github username
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `include your handle here`
-- [ ] Telegram: `include your handle here`
+- [x] Discord: `Zelivsky#3054`
+- [x] Telegram: `@Zelivsky`
 - [ ] Keybase: `include your handle here`
 
 Are you already a member of the Nym community? * 
