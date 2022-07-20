@@ -3,26 +3,29 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
+nice
 ```
 
 Applicant contact email *
 ```
+PalomaKenny006@outlook.com
 ```
 
 Applicant Github username
 ```
+redvlockvcr9j
 ```
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `include your handle here`
+- [x] Discord: `nice0#9670`
 - [ ] Telegram: `include your handle here`
 - [ ] Keybase: `include your handle here`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
-- [ ] Node Operator: Mainnet 
-- [ ] Node Operator: Testnet(s)
+- [x] Node Operator: Mainnet 
+- [x] Node Operator: Testnet(s)
 - [ ] Other (please describe below)
 ```
 ```
@@ -39,4 +42,5 @@ Please briefly describe what these nodes do, why you wish to maintain these node
 
 USDC or BTC address for payment * 
 ```
+0x1eFa3A8F94b07DE77f4F6ba43A9a361D2926755f
 ```
