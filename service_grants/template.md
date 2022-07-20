@@ -13,6 +13,7 @@ apollo.validator@gmail.com
 
 Applicant Github username
 ```
+Zelivsky
 ```
 
 Are you already a member of Nym's social channels? * 
@@ -38,6 +39,8 @@ Kira, Sei, Quicksilver, Penumbra, Paloma, Massa, Nomic, Sui, Aura, Stride, Masa,
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
+Gateway is entry points to the Nym mixnet, it's an interface between users and the mixnet. Network Requester take the user from the exit gateway to an app — which it uses in a privacy-enhanced mode. 
+I support NYM for a long time running mixnodes in testnets and mainnet. And now I'd like to support project as Gateway and Network Requester runner. 
 ```
 
 USDC or BTC address for payment * 
