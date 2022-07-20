@@ -3,8 +3,9 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
-```
 Apollo
+```
+
 Applicant contact email *
 ```
 ```
