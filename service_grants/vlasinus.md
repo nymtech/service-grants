@@ -8,7 +8,7 @@ vlasinus
 
 Applicant contact email *
 ```
-vlasov@yahoo.com
+vvlasov@yahoo.com
 ```
 
 Applicant Github username
