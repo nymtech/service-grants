@@ -18,9 +18,9 @@ marutyan
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [x] Discord: `include your handle here`
-- [x] Telegram: `include your handle here`
-- [x] Keybase: `include your handle here`
+- [x] Discord: `SEM#4095`
+- [x] Telegram: `@SEM3gs`
+- [x] Keybase: `https://keybase.io/itrocket_`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
