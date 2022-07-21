@@ -3,19 +3,22 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
+helicobacterailurogastricus
 ```
 
 Applicant contact email *
 ```
+helicobacterailurogastricus@gmail.com
 ```
 
 Applicant Github username
 ```
+helicobacterailurogastricus
 ```
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `include your handle here`
+- [x] Discord: `helicobacterailurogastricus`
 - [ ] Telegram: `include your handle here`
 - [ ] Keybase: `include your handle here`
 
@@ -35,8 +38,11 @@ If so, please briefly list which projects below:
 Why do you want to run a Gateway and Network Requester? * 
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
+Gateways provide a destination for mixnet packets. Most of the internet doesn't use encrypted Sphinx packets, so the gateway acts as a destination, sort of like a mailbox, for messages.
+Network Requester, which allows Nym users to make outbound network requests from your server.
 ```
 
 USDC or BTC address for payment * 
 ```
+3EppCFpd3uAnf6BqQsQK15q1TGmJoVHEG4
 ```
