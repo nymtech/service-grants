@@ -3,19 +3,22 @@ Nym Service Grants application form
 
 Applicant name/pseudonym *
 ```
+digi
 ```
 
 Applicant contact email *
 ```
+gorbacxeva@rambler.ru
 ```
 
 Applicant Github username
 ```
+digi122
 ```
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ ] Discord: `include your handle here`
+- [ ] Discord: `DIGI#1962`
 - [ ] Telegram: `include your handle here`
 - [ ] Keybase: `include your handle here`
 
@@ -39,4 +42,5 @@ Please briefly describe what these nodes do, why you wish to maintain these node
 
 USDC or BTC address for payment * 
 ```
+0xf8c75901297E087d3195Aa2e36Ab53fF7cdbbD40
 ```
