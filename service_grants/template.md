@@ -1,4 +1,4 @@
-Nodtech Grants application form 
+Nym Service Grants application form 
 ------------------------------------
 
 Applicant name/pseudonym *
