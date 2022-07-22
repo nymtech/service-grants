@@ -18,7 +18,7 @@ digi122
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [ x] Discord: `DIGI#1962`
+- [ ] Discord: `DIGI#1962`
 - [ ] Telegram: `include your handle here`
 - [ ] Keybase: `include your handle here`
 
