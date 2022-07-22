@@ -40,7 +40,7 @@ Why do you want to run a Gateway and Network Requester? *
 Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
 ```
 Network Requester- it is a bridge from application to user.
-Gateway - it is a bridge between the user and the interface.
+Gateway - this is the interface between the user and the mixnet.
 Gateway and Network Requester launched to expand and maintain the security of the NYM network.
 ```
 
