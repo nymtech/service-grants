@@ -1,0 +1,58 @@
+Nym Service Grants application form 
+------------------------------------
+
+Applicant name/pseudonym *
+```
+xAlex
+```
+
+Applicant contact email *
+```
+rav.rogulin@gmail.com
+```
+
+Applicant Github username
+```
+https://github.com/toolfun
+```
+
+Are you already a member of Nym's social channels? * 
+If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
+- [x] Discord: `roguelin#2113`
+- [x] Telegram: `https://t.me/roguelin`
+- [ ] Keybase: ``
+
+Are you already a member of the Nym community? * 
+If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
+- [x] Node Operator: Mainnet 
+- [x] Node Operator: Testnet(s)
+- [ ] Other (please describe below)
+```
+```
+
+Do you maintain nodes in other projects? 
+If so, please briefly list which projects below: 
+```
+Maintenance of nodes in the mainnets:
+Nym mixnode https://explorer.nymtech.net/network-components/mixnode/93JZPN9YPpwwvzwQhMsE7v6DstSKmS9dKGba5DhLb5yP
+Kujira validator https://blue.kujira.app/stake/kujiravaloper1d8tpsvw3gfjkwngu8yys58eq6ssxrd8088n2n4
+
+Participating in the testnets since early 2021. Such as Rizon, Cosmic Horizon, Evmos, Tgrade. 
+Miners in privacy platforms Aleo and Ironfish. Currently running nodes in Sui, Bundlr, Kujira (testnet)
+```
+
+Why do you want to run a Gateway and Network Requester? * 
+Please briefly describe what these nodes do, why you wish to maintain these nodes, and which service you would like to support with your Network Requester below: 
+```
+Gateways are the first entry to the Nym mixnet. They are a kind of gatekeepers with some mailbox functions.
+The Network Requester sits on ‘other side’ of the mixnet and allows Nym users to make outgoing network requests 
+for them thereby hiding metadata.
+
+Nym was my second node testing project but my fav. I received a Tier-2 grant from the Nodes Guru team as a mixnode runner and 
+I want to continue to help develop the project on my level as we all really need the real privacy and security. I would like to support Nym Wallet.
+```
+
+USDC or BTC address for payment * 
+```
+0xc3ff2ba13b2c4Bc18Ef9e31f9047a7a46cC97632
+```
