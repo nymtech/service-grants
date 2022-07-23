@@ -15,14 +15,14 @@ Applicant Github username
 
 Are you already a member of Nym's social channels? * 
 If so, please fill in the checkbox of the platforms that apply to you, and include your handle. 
-- [+] Discord: `Light House#5021`
-- [+] Telegram: `Dragon_node`
-- [+] Keybase: `mjolner`
+- [x] Discord: `Light House#5021`
+- [x] Telegram: `Dragon_node`
+- [x] Keybase: `mjolner`
 
 Are you already a member of the Nym community? * 
 If so, please fill in the checkbox of the role(s) that apply to you with an 'x' 
-- [+] Node Operator: Mainnet 
-- [ ] Node Operator: Testnet(s)
+- [x] Node Operator: Mainnet 
+- [x] Node Operator: Testnet(s)
 - [ ] Other (please describe below)
 ```
 ```
